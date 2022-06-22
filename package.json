@@ -4,6 +4,7 @@
   "description": "Projeto do Website do Personal Trainer Eliseu Sena",
   "main": "index.js",
   "scripts": {
+    "dev": "next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/gabrielpugas/eliseusena/issues"
   },
-  "homepage": "https://github.com/gabrielpugas/eliseusena#readme"
+  "homepage": "https://github.com/gabrielpugas/eliseusena#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
