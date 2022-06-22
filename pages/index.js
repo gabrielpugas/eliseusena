@@ -7,13 +7,13 @@ function Home() {
         Chama a sua véinha que vou chamar a minha, pra gente gravar as
         propagandas
       </h3>
-      
+      <button onClick={Alerta}>Confirmar presença</button>
     </div>
   )
 }
 
-function Alert() {
-  alert('Presença confirmada!')
+function Alerta() {
+  return alert('Presença confirmada! Aqui é aroeira!')
 }
 
 export default Home
