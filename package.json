@@ -4,8 +4,7 @@
   "description": "Projeto do Website do Personal Trainer Eliseu Sena",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
