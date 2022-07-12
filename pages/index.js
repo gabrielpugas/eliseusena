@@ -1,7 +1,8 @@
 function Home() {
+  
   return (
     <div>
-      <h1>Eliseu e Cris, sábado tem gravação!</h1>
+      <h1>teste de formulário</h1>
       <h2>O site já está no ar, só falta fazer o site e colocar os vídeos e fotos que vamos fazer kkk</h2>
       <h3>
         Chama a sua véinha que vou chamar a minha, pra gente gravar as
